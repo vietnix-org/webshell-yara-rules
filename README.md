@@ -1,1 +1,0 @@
-# webshell-yara-rules
